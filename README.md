@@ -23,7 +23,7 @@ Al finalizar el workshop, los participantes serán capaces de:
 
 1. **Introducción a OCI Generative AI**
    - Arquitectura general y capacidades clave.
-   - Modelos disponibles (Llama 3.1, Cohere Command, Granite, etc.).
+   - Modelos disponibles (Llama, Cohere, Grok, etc.).
    - Modalidades *On-Demand* y *Dedicated Cluster*.
    - Demostración práctica.
 
@@ -43,8 +43,7 @@ Al finalizar el workshop, los participantes serán capaces de:
 ## 🧩 Requisitos previos
 
 - Cuenta en **Oracle Cloud Infrastructure (OCI)** con acceso al servicio Generative AI.   
-- Credenciales configuradas con **OCI CLI** (`oci setup config`).  
-- Visual Studio Code (opcional pero recomendado).
+- Credenciales configuradas con **OCI CLI** (oci setup config).  
 
 ## 📚 Recursos adicionales
 
